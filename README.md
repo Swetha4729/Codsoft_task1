@@ -44,8 +44,8 @@ The goal of this portfolio is to provide an online presence where I can:
 ## 🚀 Getting Started
 To view the portfolio locally:
 1. Clone the repository:
-   git clone https://github.com/Swetha4729/Portfolio/tree/main
-2. Open the `portfolio.html` file in your browser to view the site.
+   git clone https://github.com/Swetha4729/Portfolio/blob/main/index.html
+2. Open the `index.html` file in your browser to view the site.
 
 ## 📫 Contact
 Feel free to reach out to me via the contact form on my portfolio or through GitHub for any inquiries, collaborations, or suggestions!
