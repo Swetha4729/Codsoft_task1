@@ -44,7 +44,7 @@ The goal of this portfolio is to provide an online presence where I can:
 ## 🚀 Getting Started
 To view the portfolio locally:
 1. Clone the repository:
-   git clone https://github.com/Swetha4729/Portfolio/blob/main/index.html
+   git clone https://github.com/Swetha4729/Codsoft_task1
 2. Open the `index.html` file in your browser to view the site.
 
 ## 📫 Contact
